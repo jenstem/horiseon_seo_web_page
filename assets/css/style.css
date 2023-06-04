@@ -138,3 +138,9 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+@media screen and (max-width: 1920px) {
+    header nav {
+      font-size: 20px;
+    }
+}
