@@ -68,12 +68,14 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+    max-height: 200px;
 }
 
 /* Position image to the right of text in content */
 .float-right {
     float: right;
     margin-left: 25px;
+    max-height: 200px;
 }
 
 /* Formatting in content section */
