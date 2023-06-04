@@ -1,3 +1,4 @@
+/* Universal elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Navigation bar */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,10 +49,12 @@ a {
     text-decoration: none;
 }
 
+/* Paragraph font */
 p {
     font-size: 16px;
 }
 
+/* Banner image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +64,26 @@ p {
     background-position: center;
 }
 
+/* Position image to the left of text in content */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Position image to the right of text in content */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Formatting in content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Formatting in right side bar */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +197,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
