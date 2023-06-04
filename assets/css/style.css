@@ -144,3 +144,9 @@ p {
       font-size: 20px;
     }
 }
+
+@media screen and (max-width: 992px) {
+    header {
+       height: 160px;
+     }
+}
