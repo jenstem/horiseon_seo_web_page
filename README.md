@@ -32,7 +32,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshots:
 
-
+![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20Horiseon%20SEO%20Web%20Page.png)
 This is a screenshot of the Horiseon SEO Web Page
 
 
