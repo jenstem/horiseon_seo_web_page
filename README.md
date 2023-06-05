@@ -34,3 +34,6 @@ THEN I find a concise, descriptive title
 
 
 This is a screenshot of the Horiseon SEO Web Page
+
+
+This is a screenshot of the navigation links in the header
