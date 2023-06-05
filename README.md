@@ -37,3 +37,6 @@ This is a screenshot of the Horiseon SEO Web Page
 
 
 This is a screenshot of the navigation links in the header
+
+
+This is a screenshot of the section you are brought to after you click on the navigation link
