@@ -43,4 +43,4 @@ THEN I find a concise, descriptive title
 
 ## Notes:
 
-I used code from [this](https://docs.readme.com/main/docs/linking-to-pages#:~:text=To%20link%20inline%2C%20type%20the,%2C%20%22(y)%22.&text=Reference%2Dstyle%20linking%20allows%20you,refer%20to%20it%20multiple%20times) website (docs.readme.com) to help format this readme.
+I used code from [this](https://docs.readme.com/main/docs/linking-to-pages#:~:text=To%20link%20inline%2C%20type%20the,%2C%20%22(y)%22.&text=Reference%2Dstyle%20linking%20allows%20you,refer%20to%20it%20multiple%20times) website (docs.readme.com) to help format this README file.
