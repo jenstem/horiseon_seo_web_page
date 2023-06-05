@@ -2,7 +2,7 @@
 
 ## Horiseon SEO Web Page
 
-Click [here](#) to see the website.
+Click [here](https://jenstem.github.io/horiseon_seo_web_page/) to see the website.
 
 ## Description
 
