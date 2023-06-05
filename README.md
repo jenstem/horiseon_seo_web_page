@@ -38,5 +38,5 @@ This is a screenshot of the Horiseon SEO Web Page
 ![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20link%20in%20navigation%20bar.jpg)
 This is a screenshot of the navigation links in the header
 
-
+![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20web%20page%20after%20clicking%20on%20link.jpg)
 This is a screenshot of the section you are brought to after you click on the navigation link
