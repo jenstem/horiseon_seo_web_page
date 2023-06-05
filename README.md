@@ -10,7 +10,7 @@ As a current student, I wanted to create a web page for Horiseon that followed t
 
 You can navigate the site by using the links to the right side of the header.  Clicking on one of these, for example, "Search Engine Optimization", will bring you to the corresponding section on the page.  There is additional information located in the right-hand sidebar.
 
-User Story
+## User Story
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
