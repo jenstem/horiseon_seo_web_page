@@ -39,4 +39,4 @@ THEN I find a concise, descriptive title
 *This is a screenshot of the navigation links in the header*
 
 ![](https://github.com/jenstem/seo_page/blob/main/assets/images/Screen%20shot%20of%20web%20page%20after%20clicking%20on%20link.jpg)
-This is a screenshot of the section you are brought to after you click on the navigation link
+*This is a screenshot of the section you are brought to after you click on the navigation link*
