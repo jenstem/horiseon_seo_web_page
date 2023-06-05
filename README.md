@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-Horiseon SEO Web Page
+## Horiseon SEO Web Page
 
 Click [here](#) see the website.
 
