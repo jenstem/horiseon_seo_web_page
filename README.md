@@ -42,3 +42,5 @@ THEN I find a concise, descriptive title
 *This is a screenshot of the section you are brought to after you click on the navigation link*
 
 ## Notes:
+
+I used code from this website to help format this readme.
