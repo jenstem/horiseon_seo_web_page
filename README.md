@@ -2,7 +2,7 @@
 
 ## Horiseon SEO Web Page
 
-Click [here](#) see the website.
+Click [here](#) to see the website.
 
 ## Description
 
@@ -31,3 +31,6 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Screenshots:
+
+
+This is a screenshot of the Horiseon SEO Web Page
