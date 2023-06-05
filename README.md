@@ -8,7 +8,7 @@ Click [here](https://jenstem.github.io/horiseon_seo_web_page/) to see the websit
 
 As a current student, I wanted to create a web page for Horiseon that followed the accessibility standards and improved the site for search engines.  I accomplished this by improving the structure and semantic elements of the HTML and also refactored the CSS, (paraphrasing) "leaving the code better than I found it".  I used HTML and CSS to build this web page.
 
-You can navigate the site by using the links to the right side of the header.  Clicking on one of these, for example, "Search Engine Optimization", will bring you to the corresponding section on the page.  There is additional information located in the right-hand sidebar.
+You can navigate the site by using the links on the right side of the header.  Clicking on one of these, for example, "Search Engine Optimization", will bring you to the corresponding section on the page.  There is additional information located in the right-hand sidebar regarding what Horiseon does as far as SEO.
 
 ## User Story
 
